@@ -75,4 +75,4 @@ Full-time **Teknik Infomatika student** (**[STMIK Bandung](https://www.stmik-ban
 
 <br>
 
-_Made with a lot of ❤️❤️ by **[@AgungFirmansyah](https://github.com/AgungFirmansyah09)**_
+<!-- _Made with a lot of ❤️❤️ by **[@AgungFirmansyah](https://github.com/AgungFirmansyah09)**_ -->
