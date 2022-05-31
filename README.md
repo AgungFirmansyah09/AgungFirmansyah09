@@ -35,8 +35,8 @@ Full-time **Teknik Infomatika student** (**[STMIK Bandung](https://www.stmik-ban
 
 <div align="center">
   <a href="https://github.com/AgungFirmansyah09">
-    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgungFirmansyah09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgungFirmansyah09&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgungFirmansyah09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgungFirmansyah09&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
 
