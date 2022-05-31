@@ -28,10 +28,16 @@ Full-time **Teknik Infomatika student** (**[STMIK Bandung](https://www.stmik-ban
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgungFirmansyah09&theme=monokai"
             alt="Agung Firmansyah Github commit streak">
     </a>
-<!--     <a href="https://wakatime.com/@AgungFirmansyah09/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgungFirmansyah09&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="AgungFirmansyah09's wakatime last year stats">
-    </a> -->
+    
+</div>
+
+## **⚙️ GitHub Analytics**
+
+<div align="center">
+  <a href="https://github.com/AgungFirmansyah09">
+    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgungFirmansyah09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgungFirmansyah09&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
 
 ---
